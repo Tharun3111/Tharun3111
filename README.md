@@ -1,35 +1,38 @@
 <h1 align="center">Hi, I'm Tharun Chowdary Malepati 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · GenAI Builder · Full-Stack AI Developer</b><br/>
-  <i>An AI Engineer who turns ideas into intelligent systems.</i>
+  <b>Generative AI Engineer · ML Engineer · Founding Team</b><br/>
+  <i>An AI Engineer who turns ideas into intelligent systems that ship.</i>
 </p>
 
 <p align="center">
   <a href="https://tharun3111.github.io"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-tharun3111.github.io-ff7a18?style=for-the-badge" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/📍-Denton,_TX-4da6ff?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
 
-I build intelligent products using **Machine Learning, LLMs, RAG, AI Agents, and modern full-stack engineering** — ~4 years across ML, GenAI, automation, and data.
+I lead a GenAI squad and ship production AI — multi-agent systems, RAG pipelines, and full-stack apps that run in the real world. **4+ years** turning research-grade AI into production systems, from university labs to founding teams.
 
-From **healthcare AI assistants** and **recommendation systems** to **autonomous vehicle research** and **enterprise automation**, I turn complex AI ideas into practical systems.
-
-> _I don't just explore AI tools. I build systems with them._
+### 💼 Now
+- **Observo** — Founding Team · Generative AI Engineer (leading the GenAI squad)
+- **Cyrvana** — Machine Learning Engineer (concurrent)
+- _Previously:_ ML Engineer @ Techimax (India)
 
 ### 🚀 Featured work
-- **Doctor Bot** — AI medical screening assistant (LLM + RAG · GPT-4o, Groq, LangChain, FAISS)
-- **AI Email Prioritization Agent** — agentic Gmail triage with WhatsApp alerts (n8n, Twilio)
-- **YouTube Sentiment Intelligence** — context-aware stance analysis (RoBERTa, Hugging Face, Gemini)
-- **VISSIM Bus Simulation** — autonomous-vehicle research (VISSIM COM, SQL, EKF)
+- **Doctor Bot** — multi-agent healthcare AI (LangGraph · AutoGen · RAG · FastAPI)
+- **FinFlow** — GenAI test-case generator for banking/fintech QA (LangChain)
+- **AI Email Agent** — autonomous agent with tool use + safety guardrails
+- **ITGenSoftAIBot** — full-stack AI chatbot shipped to production on AWS (Docker · Nginx · EC2)
+- **Expenses Agent** — stateless Splitwise-style API (FastAPI · Pydantic)
 
-➡️ **Explore everything + chat with my AI Twin: [tharun3111.github.io](https://tharun3111.github.io)**
+➡️ **Explore the interactive neural-graph portfolio + chat with my AI Twin: [tharun3111.github.io](https://tharun3111.github.io)**
 
 ### 🛠️ Stack
-`Python` `PyTorch` `TensorFlow` `Hugging Face` `Transformers` `LangChain` `LangGraph` `RAG` `FAISS` `OpenAI` `Gemini` `Groq` `Scikit-learn` `XGBoost` `Next.js` `FastAPI` `React` `SQL` `Docker`
+`Python` `LangChain` `LangGraph` `AutoGen` `RAG` `FAISS` `OpenAI` `Anthropic` `FastAPI` `Pydantic` `Docker` `Nginx` `AWS EC2` `Hugging Face` `RoBERTa` `Scikit-learn` `SQL`
 
 ### 🎓 Education
-- MS, Computer Science — The University of Alabama
+- MS, Computer Science (AI/ML) — The University of Alabama
 - MS, Data Science & Machine Learning — Scaler
 - B.Tech, Computer Science — Sri Venkateswara University College of Engineering
 
